@@ -1,0 +1,4 @@
+2021-12-07 16:59:08.9462 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.Start |  Server start in 127.0.0.1:10000 | 
+2021-12-07 16:59:08.9572 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__17_0 |  Sono in ascolto  | 
+2021-12-07 17:07:01.3629 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.Start |  Server start in 127.0.0.1:10000 | 
+2021-12-07 17:07:01.3750 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__17_0 |  Sono in ascolto  | 

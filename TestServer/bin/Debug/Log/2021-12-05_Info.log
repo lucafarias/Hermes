@@ -1,0 +1,10 @@
+2021-12-05 19:24:29.4608 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.Start |  Server start in 127.0.0.1:34000 | 
+2021-12-05 19:24:31.3262 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__13_0 |  Sono in ascolto  | 
+2021-12-05 19:24:47.2472 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__13_0 | Connected! | 
+2021-12-05 19:25:20.7988 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.Start |  Server start in 127.0.0.1:34000 | 
+2021-12-05 19:25:21.6788 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__13_0 |  Sono in ascolto  | 
+2021-12-05 19:25:41.8956 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.Start |  Server start in 127.0.0.1:34000 | 
+2021-12-05 19:25:42.7267 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__13_0 |  Sono in ascolto  | 
+2021-12-05 22:02:30.3191 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.Start |  Server start in 127.0.0.1:34000 | 
+2021-12-05 22:02:31.5858 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__13_0 |  Sono in ascolto  | 
+2021-12-05 22:02:46.3565 | INFO | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__13_0 |  Sono in ascolto  | 

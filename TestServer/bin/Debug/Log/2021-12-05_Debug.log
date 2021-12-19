@@ -1,0 +1,2 @@
+2021-12-05 22:02:43.8213 | DEBUG | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.<Start>b__13_0 | Connected! | 
+2021-12-05 22:03:09.5868 | DEBUG | Hermes.Log.LogEngine | Hermes.Channel.Tcp.Server.HandleConnection | 11: Received: {"SenderIP":null,"SenderPort":0,"Date":"2021-12-05 10:02:43","MessageId":"52a2cbc2-d944-48a8-8f79-8c9568b2ebb6","ClientId":"77ff94d7-4749-4845-a78c-3561a552a50c","Text":"AUTH:","Bag":null,"Token":null} | 
